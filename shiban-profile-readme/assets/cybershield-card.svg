@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="235" viewBox="0 0 1200 235">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B3934"/><stop offset="1" stop-color="#101F2E"/></linearGradient></defs>
+<rect width="1200" height="235" rx="22" fill="url(#g)" stroke="#258E83" stroke-width="2"/>
+<rect x="28" y="28" width="68" height="68" rx="18" fill="#123F3A" stroke="#5EE3CD" stroke-width="2"/>
+<path d="M62 42L80 49V63C80 77 70 84 62 88C54 84 44 77 44 63V49Z" fill="none" stroke="#6AE7D2" stroke-width="3"/>
+<path d="M53 64L60 71L73 56" fill="none" stroke="#6AE7D2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120" y="57" fill="#6BE5D1" font-family="Arial" font-size="15" letter-spacing="3">FEATURED PROJECT</text>
+<text x="120" y="96" fill="#F1FBF9" font-family="Arial" font-size="34" font-weight="700">CyberShield Community</text>
+<text x="120" y="132" fill="#BBD9D4" font-family="Arial" font-size="20">Cybersecurity awareness and digital fraud-focused project</text>
+<rect x="120" y="158" width="124" height="36" rx="18" fill="#123F3A" stroke="#3BAF9F"/>
+<text x="182" y="181" text-anchor="middle" fill="#8AF0DE" font-family="Arial" font-size="15">Explore repo ↗</text>
+<circle cx="1115" cy="52" r="7" fill="#65E6D0"/><text x="1133" y="58" fill="#8ACFC4" font-family="Arial" font-size="13" text-anchor="end">OPEN SOURCE</text>
+</svg>
