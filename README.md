@@ -1,11 +1,7 @@
-::: {align="center"}
-![GitSkins Profile
-Hero](https://www.gitskins.com/api/section/hero?username=Shibanhafiz&theme=aurora)
-:::
+
 
 # The city I built this year
 
-::: {align="center"}
 ![GitHub Contribution
 City](https://www.gitskins.com/api/section/heatmap?username=Shibanhafiz&theme=aurora&style=city)
 :::
