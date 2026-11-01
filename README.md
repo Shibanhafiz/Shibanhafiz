@@ -14,7 +14,7 @@ Every building is a day; taller means more contributions.
 </p>
 ```
 
-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 ## Population
 
@@ -23,7 +23,7 @@ Every building is a day; taller means more contributions.
 Stats](https://www.gitskins.com/api/section/stats?username=Shibanhafiz&theme=aurora)
 :::
 
-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 ## Landmarks
 
@@ -32,7 +32,7 @@ Stats](https://www.gitskins.com/api/section/stats?username=Shibanhafiz&theme=aur
 Projects](https://www.gitskins.com/api/section/projects?username=Shibanhafiz&theme=aurora)
 :::
 
-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 ## About me
 
