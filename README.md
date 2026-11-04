@@ -19,18 +19,15 @@
 
 - A software development project built through practical experimentation and learning.
 
-📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=3600" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=shibanhafiz&theme=nightowl&hide_border=true" width="49%" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibanhafiz&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
-</p><p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shibanhafiz&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" />
-</p><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibanhafiz&theme=nightowl&radius=10" width="100%" />
-</p>🛠️ Languages & Tools
+  <img src="https://github-readme-stats.vercel.app/api?username=Shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
+
+  <img src="https://streak-stats.demolab.com/?user=Shibanhafiz&theme=nightowl&hide_border=true" width="49%" alt="GitHub Streak" />
+
+🛠️ Languages & Tools
+
 
 💻 Programming Languages
 
