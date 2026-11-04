@@ -22,7 +22,7 @@
 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=3600" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=shibanhafiz&theme=nightowl&hide_border=true" width="49%" />
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibanhafiz&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
