@@ -71,12 +71,20 @@
   <a href="https://8328-itx5p0x78wrfi5lwt2lvh-6db9b150.sg2.manus.computer/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-</p>🐍 My GitHub Contributions
+<h2 align="center">🐍 My GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shibanhafiz/shibanhafiz/output/snake.svg" alt="GitHub Contribution Snake"/>
-</p><p align="center">
-  <i>"Learning by building. Improving by experimenting. Growing every day."</i>
-</p><p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shibanhafiz/Shibanhafiz/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Learning by building. Improving by experimenting. Growing every day.</i>
+</p>
+
+<p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
