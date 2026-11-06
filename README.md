@@ -2,11 +2,11 @@
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Developer Banner"/>
 </p>📌 About Me
 
-- 🎓 Second-year B.E. Artificial Intelligence and Machine Learning student at AITM, Bhatkal.
-- 💻 Interested in Artificial Intelligence, Machine Learning, Full-Stack Development and Cybersecurity.
-- 🚀 Passionate about building practical software solutions and exploring new technologies.
-- 🛠️ Learning through hands-on projects, experimentation and continuous improvement.
-- 🎯 Focused on strengthening my development skills and preparing for software engineering opportunities.
+-  Second-year B.E. Artificial Intelligence and Machine Learning student at AITM, Bhatkal.
+-  Interested in Artificial Intelligence, Machine Learning, Full-Stack Development and Cybersecurity.
+-  Passionate about building practical software solutions and exploring new technologies.
+-  Learning through hands-on projects, experimentation and continuous improvement.
+-  Focused on strengthening my development skills and preparing for software engineering opportunities.
 
 🚀 Featured Projects
 
@@ -29,27 +29,27 @@
 🛠️ Languages & Tools
 
 
-💻 Programming Languages
+ Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,c" />
-</p>🎨 Frontend
+</p> Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
-</p>⚙️ Backend
+</p> Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>🗄️ Database
+</p> Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
-</p>☁️ DevOps & Cloud
+</p> DevOps & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>🔧 Tools
+</p> Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
