@@ -8,17 +8,59 @@
 -  Learning through hands-on projects, experimentation and continuous improvement.
 -  Focused on strengthening my development skills and preparing for software engineering opportunities.
 
-🚀 Featured Projects
 
-🛡️ CyberShield
+## 🚀 Featured Projects
 
-- A cybersecurity-focused community platform.
-- Focused on cybersecurity awareness and security-related resources.
+<p align="center">
+  <i>A selection of projects I've worked on through building, experimentation and continuous learning.</i>
+</p>
 
-💻 Harvex
+### 🌾 Harvex
+**AI-Powered Smart Farming Platform**
 
-- An intelligent, AI-powered farming platform transforming complex workflows into seamless digital experiences.
-- A software development project built through practical experimentation and learning.
+An intelligent agriculture platform combining AI and IoT technologies to support smarter farming decisions.
+
+- AI-driven agricultural assistance
+- Smart field monitoring and irrigation concepts
+- Crop-related insights and recommendations
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://github.com/Shibanhafiz/Harvex">
+    <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛡️ CyberShield
+**Cybersecurity Awareness & Community Platform**
+
+A community-focused platform designed to make cybersecurity knowledge and security-related resources more accessible.
+
+- Cybersecurity awareness and educational resources
+- Security-focused community experience
+- Practical software development and integration
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square" />
+</p>
+
+<p>
+  <a href="https://github.com/Shibanhafiz/CyberShield-Community">
+    <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats
 
