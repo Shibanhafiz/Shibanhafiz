@@ -28,34 +28,40 @@
   <img src="https://streak-stats.demolab.com/?user=Shibanhafiz&theme=nightowl&hide_border=true" width="49%" alt="GitHub Streak" />
 
 
-🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
-
- Programming Languages
-
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,c" />
-</p> Frontend
+</p>
 
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
-</p> Backend
+</p>
 
+### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p> Database
+</p>
 
+### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
-</p> DevOps & Cloud
+</p>
 
+### ☁️ DevOps & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws" />
-</p> Tools
+</p>
 
+### 🔧 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>🔗 Connect With Me
+</p>
+
+
+🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Shibanhafiz">
