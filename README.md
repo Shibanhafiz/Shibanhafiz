@@ -115,7 +115,7 @@ A community-focused platform designed to make cybersecurity knowledge and securi
   <a href="mailto:Shibanhafiz07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://8328-itx5p0x78wrfi5lwt2lvh-6db9b150.sg2.manus.computer/">
+  <a href="https://shibanhafiz-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 <h2 align="center">🐍 My GitHub Contributions</h2>
