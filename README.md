@@ -17,6 +17,7 @@
 
 💻 Harvex
 
+- An intelligent, AI-powered farming platform transforming complex workflows into seamless digital experiences.
 - A software development project built through practical experimentation and learning.
 
 ## 📊 GitHub Stats
@@ -25,6 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
 
   <img src="https://streak-stats.demolab.com/?user=Shibanhafiz&theme=nightowl&hide_border=true" width="49%" alt="GitHub Streak" />
+
 
 🛠️ Languages & Tools
 
