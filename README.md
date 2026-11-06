@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
 
   <img src="https://streak-stats.demolab.com/?user=Shibanhafiz&theme=nightowl&hide_border=true" width="49%" alt="GitHub Streak" />
 
