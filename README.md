@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shiban Hafiz</h1><h3 align="center">AI & ML Engineering Student | Aspiring Developer | Tech Enthusiast</h3><p align="center">
+<h1 align="center">Hey , I'm Shiban Hafiz</h1><h3 align="center">AI & ML Engineering Student | Aspiring Developer | Tech Enthusiast</h3><p align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Developer Banner"/>
 </p>📌 About Me
 
@@ -9,7 +9,7 @@
 -  Focused on strengthening my development skills and preparing for software engineering opportunities.
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <i>A selection of projects I've worked on through building, experimentation and continuous learning.</i>
@@ -62,7 +62,7 @@ A community-focused platform designed to make cybersecurity knowledge and securi
 </p>
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Shibanhafiz&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
