@@ -89,7 +89,7 @@ A community-focused platform designed to make cybersecurity knowledge and securi
 
 ### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -99,7 +99,7 @@ A community-focused platform designed to make cybersecurity knowledge and securi
 
 ### 🔧 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,kali" />
 </p>
 
 
