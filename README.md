@@ -99,7 +99,7 @@ A community-focused platform designed to make cybersecurity knowledge and securi
 
 ### 🔧 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode,postman,figma,linux,kali" />
 </p>
 
 
