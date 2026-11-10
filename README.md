@@ -84,7 +84,7 @@ A community-focused platform designed to make cybersecurity knowledge and securi
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
 </p>
 
 ### 🗄️ Database
