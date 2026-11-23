@@ -94,7 +94,7 @@ A community-focused platform designed to make cybersecurity knowledge and securi
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure" />
 </p>
 
 ### 🔧 Tools
